@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/Colab Notebooks/yolov5/data_images/train
+val: /content/drive/MyDrive/Colab Notebooks/yolov5/data_images/test
+nc: 34
+names: ['coffee_nescafe','coffee_kopiko','Lucky-Me-Pancit-Canton','Coke-in-can','Alaska-Milk','Century-Tuna','VCut-Spicy-Barbeque','Selecta-Cornetto','Nestle-Yogurt','Femme-Bathroom-Tissue','Spam-Classic','JnJ-Potato-Chips','Nivea-Deodorant','UFC-Canned-Mushroom','Libbys-Vienna-Sausage-can','Stik-O','NissinCupNoodles','Dewberry-Strawberry','Smart-C','Pineapple-juice-can','Nestle-Chuckie','Delight-Probiotic-Drink','Summit-Drinking-Water','almond_milk','Piknik','Rambutan','HS-Shampoo','irish-spring-soap','c2_na_green','colgate_toothpaste','555-sardines','pic-a-chips','double-black','NongshimCupNoodles']
